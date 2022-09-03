@@ -47,7 +47,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/YasWanth-Kumar-Yash" target="_blank">
+<a href="https://github.com/byaswanthk" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 <a href="https://linkedin.com/in/yaswanth-kumar-a55426239" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yaswanth-kumar-a55426239" height="30" width="40" /></a> 
@@ -60,7 +60,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=YasWanth-Kumar-Yash&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=byaswanthk&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
 
 <br/>  
 
