@@ -6,10 +6,10 @@
 ### <div align="center">I'm Yaswanth Kumar, Passionate in Coding 🚀</div>  
   
 
-- 🔭 I'm currently an 2nd year undergrad pursuing Bachelor's in Computer Science and Engineering from Vellore Institute of Technology, Chennai, India.  
+- 🔭 I'm currently an 3Rd year undergrad pursuing Bachelor's in Computer Science and Engineering from Vellore Institute of Technology, Chennai, India.  
   
 
-- 🌱 I’m currently learning DSA, JAVA and WEB DEV  
+- 🌱 I’m currently learning DSA, JAVA and WEB MACHINE LEARNING 
   
 
 <br/>  
